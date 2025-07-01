@@ -26,7 +26,7 @@ Empower your workflow with effortless, high-quality text-to-speech right in your
 **1. Clone the repoistory:**
 
 ```bash
-git clone 
+git clone https://github.com/AlishbaAhsan/Voice-Notes-Generator.git
 
 ```
 
@@ -54,6 +54,6 @@ If you find a bug or want to request a feature, feel free to open an issue.
 This project is licensed under the MIT License.
 
 
-Enjoy listening to your words with [Read Aloud]()!
+Enjoy listening to your words with [Read Aloud](https://github.com/AlishbaAhsan/Voice-Notes-Generator.git)!
 
 _You can contact me at **alishbaahsan127@gmail.com** ❤️_
