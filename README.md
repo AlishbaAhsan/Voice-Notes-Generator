@@ -9,9 +9,9 @@ Empower your workflow with effortless, high-quality text-to-speech right in your
 
 **- 🔊 Natural Voice Output:** Converts text to lifelike English audio with Google’s TTS.
 
-**▶️ Instant Playback:** Hear your notes, articles, or drafts the moment you generate them.
+**- ▶️ Instant Playback:** Hear your notes, articles, or drafts the moment you generate them.
 
-**⬇️ One-Click MP3 Download:** Save audio files only when you want. Nothing stored unless you choose.
+**- ⬇️ One-Click MP3 Download:** Save audio files only when you want. Nothing stored unless you choose.
      
 
 ![Screenshot from 2025-07-01 14-28-14](https://github.com/user-attachments/assets/881f8da9-35cf-45b7-bcb7-eca1b7a73c21)
